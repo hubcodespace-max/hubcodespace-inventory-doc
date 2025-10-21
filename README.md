@@ -1,0 +1,1 @@
+# hubcodespace-inventory-doc
