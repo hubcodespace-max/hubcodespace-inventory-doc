@@ -1,1 +1,3 @@
 # hubcodespace-inventory-doc
+
+yay
